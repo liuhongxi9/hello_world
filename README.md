@@ -3,6 +3,8 @@
 
 # Hello World Example
 
+[![ESP-IDF Build](https://github.com/liuhongxi9/hello_world/actions/workflows/build.yml/badge.svg)](https://github.com/liuhongxi9/hello_world/actions/workflows/build.yml)
+
 Starts a FreeRTOS task to print "Hello World".
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
